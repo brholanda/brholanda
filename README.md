@@ -1,16 +1,20 @@
-### Hi there 👋
+### `Hi there` 👋
+My name is Bruno Holanda and I'm a Software Engineer.
+- 🔭 I'm currently working Java/Spring projects.
+- 📚 I’m currently learning/interested in ...
+    - Java
+    - Spring Framework
+    - AWS
+    - Apache Kafka
+    - Machine Learning
+    - K8S
 
-<!--
-**brholanda/brholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 `My GitHub Stats`
 
-Here are some ideas to get you started:
+<p align=left>
+ <img width="460px" src="https://github-readme-stats.vercel.app/api?username=brholanda&theme=default&hide=html&layout=compact&count_private=true&show_icons=true" />
+ <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brholanda&hide=html&layout=compact" />                    
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 `How to reach me:`\
+You can find me on [Linkedin](in/bruno-holanda-8a204657).
