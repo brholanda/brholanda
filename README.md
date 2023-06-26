@@ -1,4 +1,4 @@
-### `Hi there` 👋
+### Hi there 👋
 My name is Bruno Holanda and I'm a Software Engineer.
 - 🔭 I'm currently working Java/Spring projects.
 - 📚 I’m currently learning/interested in ...
@@ -9,12 +9,12 @@ My name is Bruno Holanda and I'm a Software Engineer.
     - Machine Learning
     - K8S
 
-📈 `My GitHub Stats`
+#### 📈 My GitHub Stats
 
 <p align=left>
  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=brholanda&theme=default&hide=html&layout=compact&count_private=true&show_icons=true" />
  <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brholanda&hide=html&layout=compact" />                    
 </p>
 
- 📫 `How to reach me:`\
+#### 📫 How to reach me:
 You can find me on [Linkedin](in/bruno-holanda-8a204657).
