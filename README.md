@@ -17,4 +17,4 @@ My name is Bruno Holanda and I'm a Software Engineer.
 </p>
 
 #### 📫 How to reach me:
-You can find me on [Linkedin](in/bruno-holanda-8a204657).
+You can find me on [LinkedIn](https://www.linkedin.com/in/bruno-holanda-8a204657).
